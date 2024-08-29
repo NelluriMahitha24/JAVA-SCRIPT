@@ -1,0 +1,20 @@
+if(" ")
+    console.log("hi");
+else
+ console.log("bye");
+ if("Mahi")
+    console.log("hi");
+else
+ console.log("bye");
+ if(746)
+    console.log("hi");
+else
+ console.log("bye");
+ if(undefined)
+    console.log("hi");
+else
+ console.log("bye");
+ if(0.0)
+    console.log("hi");
+else
+ console.log("bye");
